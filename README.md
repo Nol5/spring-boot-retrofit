@@ -1,6 +1,6 @@
 # spring-boot-retrofit
  
-Clone : `https://github.com/Nol5/spring-boot-retrofit.git`
+Clone : `git clone https://github.com/Nol5/spring-boot-retrofit.git`
 
 Build : `gradle clean build`
 
